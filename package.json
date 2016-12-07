@@ -36,7 +36,7 @@
     "cz-conventional-changelog": "^1.2.0"
   },
   "dependencies": {
-    "raven-js": "^3.8.1"
+    "raven-js": "^3.9.0"
   },
   "config": {
     "commitizen": {
