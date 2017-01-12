@@ -30,7 +30,7 @@
   "devDependencies": {
     "@types/node": "^6.0.50",
     "@types/raven-js": "0.0.18",
-    "typescript": "^2.0.10",
+    "typescript": "^2.1.5",
     "conventional-changelog-cli": "^1.2.0",
     "commitizen": "^2.8.6",
     "cz-conventional-changelog": "^1.2.0"
